@@ -47,4 +47,4 @@ Other hotels can register on the platform so their avialable room can be listed 
 
 ## DEMO LINK ( https://www.loom.com/share/46953f4a92f848f2b215267ee6a137a9?sid=fab2d31c-944a-4329-ac7e-a4ac39b06c83 )
 
-## PROTOTYPE LINK (
+## PROTOTYPE LINK ( https://www.figma.com/proto/hTtWdnQ3PkpWxdsyGjZPeh/Hotel-Bookie?page-id=0%3A1&type=design&node-id=504-951&viewport=-142%2C1565%2C0.13&scaling=scale-down&starting-point-node-id=504%3A951&show-proto-sidebar=1 )
